@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<style>
+h2 {
+  padding-left:40px;
+  padding-top:40px;
+}
+
+button {
+  padding:20px;
+}
+
+p {
+  padding:30px;
+}
+</style>
+<h2>Welcome Person!</h2>
+<body>
+<p>You have three choices</p>
+<button> Choose life </button>
+<button> Choose death</button>
+<button> Choose neither!</button>
+</body>
+</html>
